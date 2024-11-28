@@ -1,0 +1,12 @@
+{
+    "name": "simulador-cajas",
+    "version": "1.0.0",
+    "description": "Simulador de cajas registradoras usando Node.js y Web Workers",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
